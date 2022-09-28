@@ -1,1 +1,2 @@
-arquivo para manter a pasta onde todos os pdfs devem estar.
+arquivo para manter a pasta onde todos os pdfs devem estar
+apagar antes de utilizar o arquivo executavel
