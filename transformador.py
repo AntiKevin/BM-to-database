@@ -1,4 +1,4 @@
-# Importing required modules
+# importando modulos
 import pandas as pd
 import PyPDF2
 import os
