@@ -16,13 +16,13 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para usar Auto-BM, siga estas etapas:
 
-```
+
 1. separe apenas o arquivo transformador.exe
 2. crie uma pasta no mesmo diretório onde você copiou o transformador com nome de (produção) sem parênteses
 3. copie os BMs para dentro da pasta de produção
 4. execute o arquivo transformador
 5. Pronto! sua base de dados foi gerada com base nos pdfs da sua pasta
-```
+
 
 ## 📝 Licença
 
