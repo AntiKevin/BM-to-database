@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-> automatização de de um documeento pdf para gerar multiplas bases de dados.
+> automatização de um documento pdf para gerar multiplas bases de dados.
 
 ## 💻 Pré-requisitos
 
